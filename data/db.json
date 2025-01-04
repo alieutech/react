@@ -1,20 +1,24 @@
 {
-    "items": [
+  "items": [
     {
-        "id": 1,
-        "checked": false,
-        "item": "I love eating mango"
+      "id": "1",
+      "checked": false,
+      "item": "I love eating mango"
     },
     {
-        "id": 2,
-        "checked": false,
-        "item": "Bread"
+      "id": "2",
+      "checked": false,
+      "item": "Bread"
     },
     {
-        "id": 3,
-        "checked": false,
-        "item": "Pizza"
+      "id": "3",
+      "checked": true,
+      "item": "Pizza"
+    },
+    {
+      "id": "31",
+      "checked": true,
+      "item": "item four"
     }
-    ]
+  ]
 }
-
