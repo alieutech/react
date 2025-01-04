@@ -1,0 +1,20 @@
+{
+    "items": [
+    {
+        "id": 1,
+        "checked": false,
+        "item": "I love eating mango"
+    },
+    {
+        "id": 2,
+        "checked": false,
+        "item": "Bread"
+    },
+    {
+        "id": 3,
+        "checked": false,
+        "item": "Pizza"
+    }
+    ]
+}
+
